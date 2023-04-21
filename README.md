@@ -16,5 +16,5 @@ A score keeper for a ping pong game created using HTML, CSS and JavaScript
 * Bulma CSS Framework
 
 ## Screenshot
-`![PingpongGame](Images/PingPongGame.png)`
+![PingpongGame](Images/PingPongGame.png)
 
